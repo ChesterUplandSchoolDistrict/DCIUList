@@ -2379,6 +2379,7 @@
 98.83.222.85
 99.79.122.3
 99.79.172.196
+#Ips below were logged attempting to make vpn connections with wrong credentials
 185.190.24.78
 185.190.24.222
 5.181.3.45
