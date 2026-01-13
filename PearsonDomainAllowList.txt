@@ -478,3 +478,6 @@ www.canva.com
 *east-2-drc-wbte-prod-ne.s3.amazonaws.com
 *us-east-1-content-hosting-form-locker-prod.s3.us-east-1.amazonaws.com
 *us-east-2-content-hosting-form-locker-prod.s3.us-east-2.amazonaws.com
+
+#Codehs
+*codehs.com
