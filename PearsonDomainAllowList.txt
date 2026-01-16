@@ -481,3 +481,26 @@ www.canva.com
 
 #Codehs
 *codehs.com
+#App List
+nwea.org
+i-ready.com
+hmhco.com
+curriculumassociates.com
+naviance.com
+asqonline.com
+edmentum.com
+oneatlas.com
+beable.com
+nearpod.com
+flocabulary.com
+firstinmath.com
+acadiencelearning.org
+teachingstrategies.com
+classviewapi.com
+ixl.com
+panoramaed.com
+goguardian.com
+hatchearlylearning.com
+texthelp.com
+kamihq.com
+savvas
