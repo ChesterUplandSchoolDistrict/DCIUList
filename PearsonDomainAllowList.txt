@@ -504,3 +504,9 @@ hatchearlylearning.com
 texthelp.com
 kamihq.com
 savvas
+
+#Age of Learning
+*.ageoflearning.com
+*.educate.aofl.com
+*.mymathacademy.com
+*.myreadingacademy.com
